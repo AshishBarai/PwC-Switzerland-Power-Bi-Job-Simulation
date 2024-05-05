@@ -1,4 +1,4 @@
-# Power-BI-Virtual-Case-Internship
+# PwC Switzerland – Power BI Job Simulation
 
 ABOUT THIS VIRTUAL CASE EXPERIENCE
 
